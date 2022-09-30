@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* Fall 2015: laboratory attendant
+* Fall 2015: Laboratory Attendant
   * Osmaniye Korkut Ata University
   * Supervisor: Haydar Tuna
   
@@ -29,6 +29,7 @@ Skills
 * Bitbucket
 * Linux
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -46,6 +47,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+-->
 
 <!--
 Service and leadership

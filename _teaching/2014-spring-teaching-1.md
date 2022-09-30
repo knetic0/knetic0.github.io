@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Git & Github Course"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2022-fall-teaching-1
+venue: "Github"
+date: 2022-29-9
+location: "Mersin, Turkey"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Git & Github Course
 ======
 
-Heading 2
-======
+You can access my Git & Github Course Repository on this link.
 
-Heading 3
-======
+[Course](https://github.com/knetic0/Git-Github-Kursu)
