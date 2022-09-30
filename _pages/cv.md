@@ -17,7 +17,7 @@ Work experience
 ======
 * Fall 2015: Laboratory Attendant
   * Osmaniye Korkut Ata University
-  * Supervisor: Haydar Tuna
+  * Supervisor: Assist. Prof. Haydar Tuna
   
 Skills
 ======
