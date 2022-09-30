@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "Github"
-date: 2022-29-9
+date: 2022-9-29
 location: "Mersin, Turkey"
 ---
 
