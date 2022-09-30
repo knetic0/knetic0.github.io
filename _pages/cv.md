@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* Fall 2015: Laboratory Attendant
+* Fall 2022: Laboratory Attendant
   * Osmaniye Korkut Ata University
   * Supervisor: Assist. Prof. Haydar Tuna
   
