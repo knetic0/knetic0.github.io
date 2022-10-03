@@ -11,4 +11,4 @@ location: "Osmaniye, Turkey"
 Debian 11 with Oracle SQL 21c Virtualization
 ======
 
-<embed src="/files/debian11-kurulum.pdf" />
+<embed src="files/debian11-kurulum.pdf" />
