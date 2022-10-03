@@ -5,10 +5,11 @@ type: "Undergraduate course"
 permalink: /teaching/debian11
 venue: "Debian"
 date: 2022-10-3
+paperurl: 'http://knetic0.github.io/files/debian11-kurulum.pdf'
 location: "Osmaniye, Turkey"
 ---
 
 Debian 11 with Oracle SQL 21c Virtualization
 ======
 
-[Install and Setup Virtual Box and Virtual Machine ](/files/debian11-kurulum.pdf)
+[Install and Setup Virtual Box and Virtual Machine ](http://knetic0.github.io/files/debian11-kurulum.pdf)
