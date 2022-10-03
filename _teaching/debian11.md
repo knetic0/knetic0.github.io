@@ -18,4 +18,4 @@ Debian 11 with Oracle SQL 21c Virtualization
 
 [Install Visual Studio Code, Python, C++, Java & Dotnet](https://knetic0.github.io/files/debian11-vscodeKurulum.pdf)
 
-[Install Oracle SQL 21c](https://knetic0.github.io/files/debian11-DBKurulum.pdf)
+[Install Oracle SQL 21c](https://knetic0.github.io/files/debian11-DBKurulumu.pdf)
