@@ -5,9 +5,6 @@ type: "Undergraduate course"
 permalink: /teaching/debian11
 venue: "Debian"
 date: 2022-10-3
-paperurl: 'https://knetic0.github.io/files/debian11-kurulum.pdf'
-paperurl: 'https://knetic0.github.io/files/debian11-DBKurulum.pdf'
-paperurl: 'https://knetic0.github.io/files/debian11-vscodeKurulum.pdf'
 location: "Osmaniye, Turkey"
 ---
 
