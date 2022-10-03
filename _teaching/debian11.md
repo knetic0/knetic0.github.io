@@ -11,5 +11,4 @@ location: "Osmaniye, Turkey"
 Debian 11 with Oracle SQL 21c Virtualization
 ======
 
-<object data="/knetic0.github.io/files/debian11-kurulum.pdf" type="application/pdf" width="100%"> 
-</object>
+[Install and Setup Virtual Box and Virtual Machine ](/knetic0.github.io/files/debian11-kurulum.pdf)
