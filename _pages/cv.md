@@ -29,6 +29,14 @@ Skills
 * Bitbucket
 * Linux
 
+Certificates
+======
+* [BTK Akademi Go Language](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=kK1hVBnOwx)
+
+* [BTK Akademi Git & Github](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=9XrtqZk1oy)
+
+* [THKU Python Language](THKU-BT-PYTHON-0598)
+
 <!--
 Publications
 ======
